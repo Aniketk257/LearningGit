@@ -1,2 +1,3 @@
 I am new file 
 Okay, I have also been modified by my master
+I have been changed on dev branch in the remote server
